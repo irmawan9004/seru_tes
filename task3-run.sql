@@ -1,0 +1,1 @@
+SELECT * FROM students_classes_teachers;
